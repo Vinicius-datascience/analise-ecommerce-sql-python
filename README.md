@@ -8,8 +8,8 @@ Análise de desempenho de vendas para uma plataforma de e-commerce com foco em i
 - **Modelagem SQL:** Utilizou-se `INNER JOIN` para garantir a integridade dos dados demográficos na consolidação executiva, mantendo 296 transações validadas e R$ 22.025,02 em receita.
 - **Processamento:** Tratamento de valores decimais em SQL e Python (`REPLACE(',', '.')`), deduplicação e análise distributiva.
 
-## 💻  Visualizações
-![Relatório](images/relatório_executivo.png)
+## 💻  Relatório Executivo 
+![Relatório Executivo](images/relatório_executivo.png)
 
 
 ## 📊 Principais Insights de Performance
